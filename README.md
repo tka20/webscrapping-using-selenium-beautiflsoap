@@ -1,7 +1,7 @@
 # webscrapping-using-selenium-beautiflsoap
 webscrap for extract data
 <br>
-A Jupyter notebook to scrape digikala webpages using Python .
+A Jupyter notebook to scrape a Persian webpages using Python .
 
 #project 1: Describes how web scraping can be used for one item <br>
 #Project 2: Describes how collected data and control miss value<br>
